@@ -1,11 +1,12 @@
-<h1> Augusto <h1>
+<h1> Dicas das aulas <h1>
   
-<h2> Augusto <h2>
-  
-<h3> Augusto <h3>
-  
-<h6> Augusto <h6>
-                 
-<!--
-sdsd
--->
+- como colocar comentarios
+
+<!--Seu comentario aqui -->
+
+- Como criar títulos
+1 - colocando (#)
+
+2 - colocando (<h1)
+
+<h1> Título </h1>
